@@ -7,7 +7,7 @@ public class Censor {
 		
 		String ergebnis = censor("Bius szeret fözöcskezni.", "Bius", "Viki");
 		System.out.println("Proba "+ergebnis);
-	
+	System.out.println("Git szarakodás");
 	
 	}
 
